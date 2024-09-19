@@ -1,0 +1,19 @@
+git init
+git add .
+git add -A 
+git config user.name
+git config --global user.name
+git config --global user.email
+git status
+git log
+git pull
+git push
+git - v
+git help
+git ls
+git cd.. 
+git clone 
+git branch nome-da-branch
+git branch -b nome-da-branch
+git branch -d nome-da-outra-branch
+git checkout
