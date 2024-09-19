@@ -1,0 +1,3 @@
+git add . -a para todos os projetos
+git add .
+git commit -m "arquivo txt criado"
